@@ -345,6 +345,7 @@ new_table %>%
   select( - n)%>%
   pivot_wider(names_from = client,
               values_from = prop_n)
+
 ```
 
 **DID YOU REMEMBER TO GO BACK AND CHANGE THIS SET OF EXERCISES TO THE LARGER DATASET? IF NOT, DO THAT NOW.**
